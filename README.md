@@ -6,6 +6,8 @@
 
 
 
-This bot was made with Node.js using the Twit API.
+This bot was made with Node.js using the Twit API. The bot is being hosted on Heroku. Heroku is an amazing free hosting service!
 
 Twit: https://github.com/ttezel/twit
+
+Heroku: https://www.heroku.com/
