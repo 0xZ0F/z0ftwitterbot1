@@ -1,0 +1,20 @@
+{
+  "name": "z0ftwitterbot1",
+  "version": "1.0.0",
+  "description": "Twitter bot for Z0F by Z0F.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kgoforth/z0ftwitterbot1.git"
+  },
+  "author": "Z0F",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kgoforth/z0ftwitterbot1/issues"
+  },
+  "homepage": "https://github.com/kgoforth/z0ftwitterbot1#readme"
+}
