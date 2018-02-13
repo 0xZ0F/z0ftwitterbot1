@@ -1,6 +1,6 @@
 
 
-TODO:
+TODO: (Lower on the list == Lower Priority)
 Make the bot do more than generate numbers.
 Make the bot post messages depending on the time of day (My TZ) instead of hard-coded intervals.
 Make the bot respond to a command - ONLY IF I (Z0F) type the command. //Maybe DM? If not, just check for UID.

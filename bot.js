@@ -8,7 +8,7 @@ console.log("Bot Authenticated!");
 dailyTweet();
 
 var intervalID = setInterval(dailyTweet, 86400000); //Interval for when the dailyTweet function is ran. (Every x seconds.)
-
+//Daily Random Number: 
 function dailyTweet() {
     //Generate Random Number                   Max         Min
     let randNum = Math.floor((Math.random() * 1000000000) + 0);

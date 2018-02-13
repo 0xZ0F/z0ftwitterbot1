@@ -1,11 +1,11 @@
-/*console.log("Bot Starting...");
+console.log("Bot Starting...");
 // Library setup and twit OAuth.
 const Twit = require('twit');
 const config = require('./config');
 const T = new Twit(config);
 console.log("Bot Authenticated!");
-*/
-dailyTweet();
+
+/*dailyTweet();
 
 var intervalID = setInterval(dailyTweet, 10000); //Interval for when the dailyTweet function is ran. (Every x seconds.)
 
@@ -21,4 +21,12 @@ function dailyTweet() {
     function doStuff(){
         console.log("Z0F\'s Daily random number is: " + randNum + "\nGenerating a number less than or equal to today's random number is a " + finalProb + " chance!" + "\n\nThe number is randomly generated between 0 and 1 Billion. \nMore info here: https://github.com/kgoforth/z0ftwitterbot1" + "\n#Random #Z0F #Z0FRandomNumber #Code");
     }
-}
+}*/
+/*var stream = T.stream('user');
+stream.on('tweet', botCommands);
+botCommands();
+function botCommands(){
+    T.get('statuses/user_timeline', { q: 'Banana', id_str: "946461795916636160" }, function(err, data, response) {
+        console.log("Found Tweet!");
+    })
+}*/
