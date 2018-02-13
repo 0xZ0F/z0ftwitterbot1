@@ -19,6 +19,6 @@ function dailyTweet() {
 
     doStuff();
     function doStuff(){
-        console.log("Z0F\'s Daily random number is:", randNum, "\nGenerating a number less than or equal to today's random number is a", finalProb, "chance!", "\n\nThe number is randomly generated between 0 and 1 Billion. \nMore info here: https://github.com/kgoforth/z0ftwitterbot1", "\n#Random #Z0F #Z0FRandomNumber #Code");
+        console.log("Z0F\'s Daily random number is: " + randNum + "\nGenerating a number less than or equal to today's random number is a " + finalProb + " chance!" + "\n\nThe number is randomly generated between 0 and 1 Billion. \nMore info here: https://github.com/kgoforth/z0ftwitterbot1" + "\n#Random #Z0F #Z0FRandomNumber #Code");
     }
 }
