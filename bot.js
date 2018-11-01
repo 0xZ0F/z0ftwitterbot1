@@ -6,7 +6,9 @@ const config = require('./config');
 const T = new Twit(config);
 console.log("Bot Authenticated!");
 
-// Run the function at the set time. Second, Minute, Hour, Day, Week, Month.
+//----------------------
+// THE TIMING IS BROKEN
+//----------------------
 var j = schedule.scheduleJob('* * 12 * * *', function(asdf){
     //Generate Random Number                   Max         Min
     let randNum = Math.floor((Math.random() * 1000000000) + 0);
