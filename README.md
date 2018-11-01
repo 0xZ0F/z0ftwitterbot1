@@ -1,4 +1,4 @@
-# DO NOT USE THIS BOT! IT MAY SPAM! #
+# Timing method needs implementation, otherwise it will spam.
 
 ## This is a Twitter bot for @0xZ0F on twitter. https://twitter.com/0xZ0F
 
